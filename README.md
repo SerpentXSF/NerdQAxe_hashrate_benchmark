@@ -29,7 +29,7 @@ A Python-based benchmarking tool for optimizing NerdQaxe mining performance by t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mrv777/nerdqaxe_hashrate_benchmark.git
+git clone https://github.com/serpentxsf/nerdqaxe_hashrate_benchmark.git
 cd nerdqaxe_hashrate_benchmark
 ```
 
