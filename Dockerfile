@@ -14,4 +14,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY bitaxe_hashrate_benchmark.py .
 
 # Set the entrypoint
-ENTRYPOINT ["python", "bitaxe_hashrate_benchmark.py"]
+ENTRYPOINT ["python", "-u", "nerdaxe_hashrate_benchmark.py"]
+
