@@ -15,5 +15,3 @@ COPY nerdaxe_hashrate_benchmark.py .
 
 # Set the entrypoint
 ENTRYPOINT ["python", "-u", "nerdaxe_hashrate_benchmark.py"]
-
-
