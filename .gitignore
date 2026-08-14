@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+nerdqaxe_benchmark_results_*.json
+nerdqaxe_benchmark_results_*.csv
+bitaxe_benchmark_results_*.json
+venv/
+.venv/
