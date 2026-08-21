@@ -98,6 +98,17 @@ python fleet.py --file miners.txt --run "--mode refine --bracket"
 Python 3 with `requests` (`pip install -r requirements.txt`). Single file, standard
 library plus `requests`.
 
+## Credits
+
+This tool descends from the Bitaxe hashrate-benchmark lineage:
+
+- [mrv777/Bitaxe-Hashrate-Benchmark](https://github.com/mrv777/Bitaxe-Hashrate-Benchmark)
+  — the original Bitaxe hashrate benchmark (GPL-3.0) this ultimately derives from.
+- [SerpentXSF/Bitaxe-Hashrate-Benchmark](https://github.com/SerpentXSF/Bitaxe-Hashrate-Benchmark)
+  — the error-aware fork of mrv777's tool; this repo adapts its error/thermal-gated
+  selection logic for the NerdQAxe++ (4× BM1370, NerdOS API differences).
+
 ## License
 
-GPLv3, preserving the upstream NerdQAxe/BitAxe benchmark lineage and attribution.
+GPL-3.0. See [LICENSE](LICENSE). As a derivative of the GPL-3.0 tools above, this
+project is licensed GPL-3.0 and preserves their attribution (see Credits).

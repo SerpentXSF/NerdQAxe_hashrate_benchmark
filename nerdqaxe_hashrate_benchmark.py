@@ -1,3 +1,12 @@
+# NerdQAxe++ Hashrate Benchmark (health-aware)
+# Copyright (C) 2025-2026 SerpentX. Licensed under the GNU GPL v3.0 (see LICENSE).
+#
+# Derived from the Bitaxe hashrate-benchmark lineage:
+#   mrv777/Bitaxe-Hashrate-Benchmark (GPL-3.0)
+#     -> SerpentXSF/Bitaxe-Hashrate-Benchmark (error-aware fork)
+#     -> this NerdQAxe++ adaptation.
+# See the README "Credits" section for attribution.
+
 import requests
 import time
 import json
