@@ -108,6 +108,28 @@ This tool descends from the Bitaxe hashrate-benchmark lineage:
   — the error-aware fork of mrv777's tool; this repo adapts its error/thermal-gated
   selection logic for the NerdQAxe++ (4× BM1370, NerdOS API differences).
 
+## Support this project
+
+Everything here is free and open source under GPL-3.0, and it stays that way -
+there is no paid tier and nothing is held back. If it has been useful to you and
+you want to say thanks, it is very much appreciated. Please never feel obliged.
+
+**Bitcoin** (on-chain)
+
+```
+bc1qeepmx84606m0fphpuvlcafz9ukfmgyrlxjkt72
+```
+
+**USDC** - **Solana network only**
+
+```
+JAY1A2kXYY8jLzedyXFxJMoPZ5hS6Ja9K2qDPtx64Lbs
+```
+
+> Send USDC on the **Solana** network only. USDC sent to this address over
+> Ethereum, Polygon, or any other chain will be **permanently lost** - that is
+> how the networks work and it cannot be reversed.
+
 ## License
 
 GPL-3.0. See [LICENSE](LICENSE). As a derivative of the GPL-3.0 tools above, this
